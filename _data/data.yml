@@ -35,21 +35,29 @@ sidebar:
 
 
 
-education:
-    title: Education
+experiences:
+    title: <a href="https://burnsmay.github.io/burnsmay.github.io.experiences/"> Experiences </a>
     info:
-      - degree: BSc in Computer Science
-        university: Michigan State University
-        time: 2022 - Present
-        
-      - degree: Associate of Science
-        university: North Central Michigan College
-        time: 2022 - 2024
-        
-      - degree: High School Diploma
-        university: Harbor Springs High School
-        time: 2018 - 2022
+      - role: Sales Associate
+        time: June 2022 - Present
+        company: Monogram Goods, MI
+        details: |
+          - Drive and increase sales by engaging customers, encouraging sales and sharing knowledge of products
+          - Respond to customer inquiries, handle closing responsibilities and manage the cash register
 
+      - role: Map Librarian
+        time: September 2022 - Present
+        company: Michigan State University Library
+        details: |
+          - Proficient in organizing, cataloging, and maintaining resources along with helping patrons locate information and resources
+          - Accomplished in providing excellent customer service addressing problems and inquires of patrons of all ages
+          
+      - role: Childcare Provider
+        time: 2018 - 2022, SEASONAL
+        company: Harbor Springs, MI
+        details: |
+          - Strong verbal communication skills for interacting with children, parents, and guardians, providing updates on the child's progress and activities
+          - Effective in supervising and ensuring the safety and well-being of children in various age groups.
 
 
 footer: >
